@@ -1,7 +1,7 @@
-# twitter-final
+# twitter-final 
 Ivykids submission
 
-Name : Shaurya Yamdagni
+Name : Shaurya Yamdagni \n
 Registration Number : RA2011003030003
 Email : sy0638@srmist.edu.in
 
